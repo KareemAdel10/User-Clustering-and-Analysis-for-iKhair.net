@@ -4,15 +4,15 @@ This project involves analyzing and segmenting users of the iKhair.net mobile ap
 
 ## Objectives
 1. Data Analysis: Analyze two datasets (Users and Transactions) to segment users and identify behavior patterns, including:
-  - Creating 3 user segments based on similarities.
-  - Calculating the average transaction value per segment.
-  - Determining the top purchase day and peak purchase hour.
-  - Identifying the top 10 donors based on transaction value.
+    - Creating 3 user segments based on similarities.
+    - Calculating the average transaction value per segment.
+    - Determining the top purchase day and peak purchase hour.
+    - Identifying the top 10 donors based on transaction value.
 2. Dashboard Creation: Build an interactive dashboard in Looker Studio to visualize findings, including:
-  - Date and project name filters.
-  - Percentage of purchases by organization.
-  - Purchase activity trends (daily and monthly).
-  - Top five user activities.
+    - Date and project name filters.
+    - Percentage of purchases by organization.
+    - Purchase activity trends (daily and monthly).
+    - Top five user activities.
     
   [View the Interactive Dashboard](https://lookerstudio.google.com/u/0/reporting/66dba730-3464-4399-9d6c-20ab520076f5/page/RuaQE)
 
