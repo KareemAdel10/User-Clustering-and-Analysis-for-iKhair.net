@@ -1,4 +1,4 @@
-# User Ckustering and Analysis for iKhair.net
+# User Clustering and Analysis for iKhair.net
 ## Project Overview
 This project involves analyzing and segmenting users of the iKhair.net mobile app, which has over 10 million records of user profiles, transactions, and locations since its launch in 2011. The primary goal is to group users based on behavioral similarities and generate actionable insights through data analysis and visualization.
 
